@@ -37,15 +37,6 @@ The dataset used for this project is the RideIt Drivers and Driver Activity Data
 
 ---
 
-## 🛠️ Tools & Technologies
-
-* Power BI
-* Power Query
-* DAX
-* Excel
-
----
-
 ## 📊 Business Analysis
 
 1. Measure driver engagement using **Acceptance Rate** and **Ride Completion Rate**
@@ -84,21 +75,23 @@ Developed five interactive dashboard pages:
 
 ## 📐 DAX Measures
 
-* Total Rides = SUM(rideit_drivers_activity[rides])
+Total Rides = SUM(rideit_drivers_activity[rides])
 
-* Total Offers = SUM(rideit_drivers_activity[offers])
+Total Offers = SUM(rideit_drivers_activity[offers])
 
-* Total Bookings = SUM(rideit_drivers_activity[bookings])
+Total Bookings = SUM(rideit_drivers_activity[bookings])
 
-* Passenger Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_passenger])
+Passenger Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_passenger])
 
-* Driver Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_driver])
+Driver Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_driver])
 
-* Total Drivers = DISTINCTCOUNT(rideit_drivers[id_driver])
+Total Drivers = DISTINCTCOUNT(rideit_drivers[id_driver])
 
-* Ride Completion Rate = DIVIDE([Total Rides], [Total Bookings], 0)
+Ride Completion Rate = DIVIDE([Total Rides], [Total Bookings], 0)
 
-* AVG Driver Rating = AVERAGE(rideit_drivers[driver_rating])
+AVG Driver Rating = AVERAGE(rideit_drivers[driver_rating])
+
+---
 
 ## 🔑 Key Insights
 
@@ -126,6 +119,12 @@ Expected impact includes improved driver engagement, higher completion rates, lo
 
 ---
 
+## 🛠️ Tools & Technologies
+
+Power BI · Power Query · DAX · SQL · Excel · Python
+
+---
+
 ## 👩‍💻 My Role – Data Analyst
 
 As a Data Analyst, I worked on this project to transform raw ride operations data into meaningful business insights. My responsibilities included:
@@ -142,9 +141,9 @@ As a Data Analyst, I worked on this project to transform raw ride operations dat
 
 ---
 
-## 👩‍💻 Author
+## 🙋 Author
 
-**Mallayolla Vaishnavi**
+**Vaishnavi Mallayolla**
 
 ## Skills
 
