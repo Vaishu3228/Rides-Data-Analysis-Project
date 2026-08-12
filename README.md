@@ -108,8 +108,32 @@ Expected impact includes improved driver engagement, higher completion rates, lo
 
 ---
 
+## 👩‍💻 My Role – Data Analyst
+
+As a Data Analyst, I worked on this project to transform raw ride operations data into meaningful business insights. My responsibilities included:
+
+- Cleaning and preparing the dataset for analysis.
+- Performing data analysis using SQL and Excel.
+- Creating data models and relationships in Power BI.
+- Developing DAX measures for KPIs such as Acceptance Rate, Ride Completion Rate, Cancellation Rate, and Average Driver Rating.
+- Designing interactive dashboards and reports using Power BI.
+- Analyzing driver engagement, performance, cancellations, service types, and countries.
+- Identifying high-performing and low-engagement drivers.
+- Analyzing the impact of marketing participation and Gold loyalty levels on engagement.
+- Generating insights to support data-driven business decisions.
+
+---
+
 ## 👩‍💻 Author
 
 **Mallayolla Vaishnavi**
+
+## Skills
+
+Power BI | SQL | Excel | Python
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
 
 
