@@ -82,6 +82,24 @@ Developed five interactive dashboard pages:
 
 ---
 
+## 📐 DAX Measures
+
+* Total Rides = SUM(rideit_drivers_activity[rides])
+
+* Total Offers = SUM(rideit_drivers_activity[offers])
+
+* Total Bookings = SUM(rideit_drivers_activity[bookings])
+
+* Passenger Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_passenger])
+
+* Driver Cancellation = SUM(rideit_drivers_activity[bookings_cancelled_by_driver])
+
+* Total Drivers = DISTINCTCOUNT(rideit_drivers[id_driver])
+
+* Ride Completion Rate = DIVIDE([Total Rides], [Total Bookings], 0)
+
+* AVG Driver Rating = AVERAGE(rideit_drivers[driver_rating])
+
 ## 🔑 Key Insights
 
 - Ride Completion Rate remained **above 80%**
