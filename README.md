@@ -121,7 +121,12 @@ Expected impact includes improved driver engagement, higher completion rates, lo
 
 ## 🛠️ Tools & Technologies
 
-Power BI · Power Query · DAX · SQL · Excel · Python
+- Power BI 
+- Power Query 
+- DAX 
+- SQL 
+- Excel 
+- Python
 
 ---
 
