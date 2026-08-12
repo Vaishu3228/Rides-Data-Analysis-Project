@@ -39,7 +39,12 @@ The dataset used for this project is the RideIt Drivers and Driver Activity Data
 
 ## 🛠️ Tools & Technologies
 
-`Power BI` · `Power Query` · `DAX` · `SQL` · `Excel` · `Python`
+* Power BI
+* Power Query
+* DAX
+* Excel
+
+---
 
 ## 📊 Business Analysis
 
@@ -56,6 +61,8 @@ The dataset used for this project is the RideIt Drivers and Driver Activity Data
 Developed five interactive dashboard pages:
 
 - **Home Page**
+  <img width="1407" height="807" alt="Screenshot 2026-08-11 220712" src="https://github.com/user-attachments/assets/df0f4603-b27e-406d-aa90-e4dba4950297" />
+
 - **Driver Engagement Overview**
 - **Factors Influencing Engagement**
 - **Performance & Cancellation Analysis**
