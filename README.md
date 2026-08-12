@@ -12,17 +12,18 @@ This project analyzes RideIt's driver engagement, performance, and cancellation 
 
 ## 🗂️ Dataset Summary
 
-| Dataset | Description |
-|---|---|
-| **RideIt Drivers** | Driver profiles, ratings, gold level count, service type, country, and marketing participation |
-| **RideIt Driver Activity** | Offers, bookings, cancellations, and completed rides |
+The dataset used for this project is the RideIt Drivers and Driver Activity Dataset. The dataset contains information about:
 
-**Missing Data**
-
-| Field | Missing Values |
-|---|---|
-| Driver Rating | 98 |
-| Gold Level Count | 2,948 |
+* Driver Profiles
+* Driver Ratings
+* Gold Level Count
+* Service Type
+* Country
+* Marketing Participation
+* Offers
+* Bookings
+* Cancellations
+* Completed Rides
 
 ---
 
@@ -35,6 +36,10 @@ This project analyzes RideIt's driver engagement, performance, and cancellation 
 - Created a **one-to-many relationship** using `driver_id`
 
 ---
+
+## 🛠️ Tools & Technologies
+
+`Power BI` · `Power Query` · `DAX` · `SQL` · `Excel` · `Python`
 
 ## 📊 Business Analysis
 
@@ -81,12 +86,6 @@ Developed five interactive dashboard pages:
 ## 🎯 Business Impact
 
 Expected impact includes improved driver engagement, higher completion rates, lower cancellations, better customer experience, and increased driver retention.
-
----
-
-## 🛠️ Tools & Technologies
-
-`Power BI` · `Power Query` · `DAX` · `SQL` · `Excel` · `Python`
 
 ---
 
